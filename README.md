@@ -12,9 +12,14 @@ The idea and some of the code for encoding SMILES strings are adapted from [this
 # Current Results - a little better than random
 
 Predictions with random weights, before training:
+
 ![predictions with random weights](figures/random_weights_v1.svg)
+
 Loss = 6.01
 
+
 Predictions after training for 100 epochs:
+
 ![predictions after training](figures/trained_v1.svg)
+
 Loss = 0.74
